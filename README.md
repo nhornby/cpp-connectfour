@@ -27,3 +27,8 @@ Use --help argument for further detail
 ```console
 ./main.exe --help
 ```
+
+# Other Options
+AI Move Lookahead Depth can be modified in "player.hpp"
+
+Output Style can be modified in "state.hpp"
