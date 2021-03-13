@@ -1,4 +1,4 @@
-Personal Project: Sudoku Solver
+Personal Project: Connect Four
 =======================
 
 Author: Nolan Hornby <nhornby@umich.edu>
@@ -22,4 +22,8 @@ This program defaults to 6 rows, 7 columns, with a 4-in-a-row win.
 Additionally, the default strategy of both players is human input, but can be modified to "Random" or "AI"
 ```console
 ./main.exe -r [number of rows] -c [number of columns] -n [connect how many?] -1 [p1 strategy] -2 [p2 strategy]
+```
+Use --help argument for further detail
+```console
+./main.exe --help
 ```
